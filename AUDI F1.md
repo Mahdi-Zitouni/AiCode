@@ -3,7 +3,7 @@
 **From:** Mahdi  
 **To:** Vanessa & Team  
 **Date:** September 2025  
-**Subject:** How to approach solving Each Use Case with Salesforce
+**Subject:** How to Solve Each Use Case with Salesforce
 
 ---
 
@@ -315,7 +315,26 @@
 **Phase 2 (Months 3-4):** Use Cases 2, 3.1, 4.1
 **Phase 3 (Months 5-6):** Use Cases 3.2, 3.3, 4.2, 5.4
 **Phase 4 (Months 7-8):** Use Cases 4.3, 5.3, 5.5, 5.6, 5.7
+**Phase 5 (Months 9):** Final testing, optimization, and go-live
 
-**Total Timeline:** 6-8 months
-**Total Cost:** ~$96,000 (licenses + development)
+**Total Timeline:** 7-9 months
 
+---
+
+## Required Salesforce Licenses
+
+**Core Products Needed:**
+- **Salesforce CRM** - Contact management and custom objects
+- **Marketing Cloud** - Journey Builder, Email Studio, Mobile Studio
+- **Experience Cloud** - Community portals and public sites
+- **Data Cloud** - Analytics and segmentation
+- **Salesforce Surveys** - Survey and poll management
+- **Salesforce CMS** - Content management system
+- **Commerce Cloud** - E-commerce functionality
+- **MuleSoft** - API integration platform
+
+**Additional Products:**
+- **Tableau** - Advanced reporting and dashboards
+- **Einstein Analytics** - AI-powered insights
+
+---
