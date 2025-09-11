@@ -3,7 +3,7 @@
 **From:** Mahdi  
 **To:** Vanessa & Team  
 **Date:** September 2025  
-**Subject:** How to Solve Each Use Case with Salesforce
+**Subject:** How Approach Solving Each Use Case with Salesforce
 
 ---
 
